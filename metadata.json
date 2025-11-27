@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Adventurer",
+  "description": "An 8-bit arcade adventure where you collect coins and potions in a grassy field before time runs out.",
+  "requestFramePermissions": []
+}
